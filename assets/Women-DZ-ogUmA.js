@@ -1,0 +1,1 @@
+import{o as e,t}from"./index-U-_wuVuY.js";e();var n=t(),r=()=>(0,n.jsx)(`div`,{children:`Women`});export{r as default};

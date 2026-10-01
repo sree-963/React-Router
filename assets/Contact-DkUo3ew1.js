@@ -1,0 +1,1 @@
+import{o as e,s as t,t as n}from"./index-U-_wuVuY.js";var r=t(e(),1),i=n(),a=r.memo(({handleclick:e})=>(console.log(`Child Re-Rendered`),(0,i.jsx)(`div`,{children:(0,i.jsx)(`button`,{onClick:e,children:`Child Increase`})})));export{a as default};

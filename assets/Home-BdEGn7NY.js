@@ -1,0 +1,1 @@
+import{o as e,t}from"./index-U-_wuVuY.js";e();var n=t(),r=()=>{localStorage.setItem(`Age`,`26`);let e=localStorage.getItem(`Age`);console.log(e),localStorage.setItem(`Obj`,JSON.stringify({name:`Sreeram`,Age:26}));let t=JSON.parse(localStorage.getItem(`Obj`));return console.log(t.Age),(0,n.jsx)(`div`,{className:`home`,children:`Home`})};export{r as default};
